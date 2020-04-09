@@ -1,3 +1,7 @@
+# Find solution of linear problem using gauss eliminition
+# Dhava Gautama
+# https://github.com/dhava-stmkg/Gauss_LinearSolver
+
 matrik = [25,5,1,106.8],[64,8,1,177.2],[144,12,1,279.2]
 
 print(matrik)
