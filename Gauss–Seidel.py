@@ -1,6 +1,6 @@
 # Find solution of linear problem using Gauss-Seidel iterative method
 # Dhava Gautama
-# 
+# https://github.com/dhava-stmkg/LinearSolver
 
 from numpy import array
 from tabulate import tabulate as tbl
